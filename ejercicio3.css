@@ -1,0 +1,35 @@
+body{
+    font-family: serif;
+}
+
+h1, h2, h3{
+    font-family: sans-serif;
+}
+
+header{
+    text-align: center;
+    padding: 10px;
+}
+
+#container{
+    justify-content: center;
+}
+
+article{
+    margin-top: 10px;
+    padding: 10px;
+}
+
+article, p{
+    margin-bottom: 10px;
+}
+
+.post-head{
+    margin-bottom: 10px;
+    padding: 10px;
+    border-bottom: solid 1px;
+}
+
+footer{
+    text-align: center;
+}
