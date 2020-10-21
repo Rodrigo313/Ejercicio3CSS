@@ -38,3 +38,7 @@ article, p{
 footer{
     text-align: center;
 }
+
+article small{
+    color: aqua;
+}
